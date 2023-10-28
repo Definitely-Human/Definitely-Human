@@ -120,8 +120,11 @@
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <div class="footer" align="center" style="margin:15px;">
-    <a href="mailto:gym4programming@gmail.com" target="_blank">
+    <a href="mailto:odest66@gmail.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
+    </a>
+    <a href="https://www.linkedin.com/in/alexander-savchuk/" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://www.cdnlogo.com/logos/l/78/linkedin-icon.svg" alt="linkedin" width="40px"/>
     </a>
 </div>
 <!-- End Footer -->
