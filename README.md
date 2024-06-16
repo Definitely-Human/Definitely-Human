@@ -1,7 +1,7 @@
 <h1 style="color: #44AEFB;">🔥 Alexander Savchuk </h1>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-&emsp; I am a passionate, full-stack software developer and hobbyist. Usually, I like to develop applications when I think I have a unique idea or need something very specific to me. Being a person with many hobbies and a desire to create has always led me to interact with different tools and technologies over the many years I've been programming. Besides software development, I also enjoy activities like drawing, playing piano, studying foreign languages, doing sports, and many others.
+&emsp; I am a passionate, DevOps Engineer, former full-stack software developer and hobbyist. Usually, I like to develop applications when I think I have a unique idea or need something very specific to me. Being a person with many hobbies and a desire to create has always led me to interact with different tools and technologies over the many years I've been programming. Besides software development, I also enjoy activities like drawing, playing piano, studying foreign languages, doing sports, and many others.
 <br>
 <br>
 <div align="center">
